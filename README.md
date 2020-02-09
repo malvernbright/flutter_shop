@@ -1,11 +1,10 @@
-<<<<<<< HEAD
-# flutter_app
+# flutter_shop
 
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a flutter shop.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -17,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 =======
 # flutter_shop
->>>>>>> 23c6a35e16a73515242545395be471ec6ed3073f
+
